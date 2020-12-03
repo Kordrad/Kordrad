@@ -3,7 +3,7 @@
   <td width="50%">
     
    &nbsp; <br> 
-   [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/21uz7h2p7m67sfbqfkrochv6a)
+   [![Spotify](https://novatorem.vercel.app/api/spotify)][spotify]
     
   </td>
  <td width="50%">
@@ -30,8 +30,8 @@
  <summary>
   👨‍💻 More about my coding life
  </summary>
- <br />
-  <img src='https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif' align='left'>
+ <br /> 
+ <img src='https://github.com/Kordrad/Kordrad/blob/main/img/coding.gif?raw=true' align='left'>
 
  ![Konrad's Github Stats](https://github-readme-stats.vercel.app/api?username=kordrad&count_private=true&show_icons=true&include_all_commits=true&theme=onedark)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kordrad&layout=compact&hide=vue&theme=onedark)
@@ -40,9 +40,12 @@
   
 
 [homepage]: https://github.com/Kordrad
+[spotify]: https://open.spotify.com/user/21uz7h2p7m67sfbqfkrochv6a
 [linkedin]: https://www.linkedin.com/in/kordrad/
 [email]: mailto:kord.stp@gmail.com?subject=Hello%20Konrad,%20From%20Github
 [stackoverflow]: https://stackoverflow.com/users/10992417/kordrad
+
+[image]: https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif
 
 [//]: <> (The `&nbsp;` is to have Aphelion take up more space)
 
