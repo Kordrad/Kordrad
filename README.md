@@ -43,7 +43,7 @@ Angular enthusiast & yerba mate lover 🧉
 [//]: <> (Variables:)
 [homepage]: https://github.com/Kordrad
 [spotify]: https://open.spotify.com/user/21uz7h2p7m67sfbqfkrochv6a
-[linkedin]: https://www.linkedin.com/in/kordrad/
+[linkedin]: https://www.linkedin.com/in/KonradStepien/
 [email]: mailto:kord.stp@gmail.com?subject=Hello%20Konrad,%20From%20Github
 [x]: https://twitter.com/kordrad
 [stackoverflow]: https://stackoverflow.com/users/10992417/kordrad
