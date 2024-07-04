@@ -45,5 +45,5 @@ Angular enthusiast & yerba mate lover 🧉
 [spotify]: https://open.spotify.com/user/21uz7h2p7m67sfbqfkrochv6a
 [linkedin]: https://www.linkedin.com/in/KonradStepien/
 [email]: mailto:kord.stp@gmail.com?subject=Hello%20Konrad,%20From%20Github
-[x]: https://twitter.com/kordrad
+[x]: https://x.com/kstepien_
 [stackoverflow]: https://stackoverflow.com/users/10992417/kordrad
