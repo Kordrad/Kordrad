@@ -3,7 +3,7 @@ Angular enthusiast & yerba mate lover 🧉
 
 [![](https://img.shields.io/badge/-Konrad%20Stępień-369?style=flat&logo=linkedIn&logoColor=white)][linkedin]
 [![](https://img.shields.io/badge/-kord.stp@gmail.com-c71610?style=flat&logo=gmail&logoColor=white)][email]
-[![](https://img.shields.io/badge/-@kstepien_-000000?style=flat&logo=X&logoColor=white)][x]
+[![](https://img.shields.io/badge/-@kstepien__-000000?style=flat&logo=X&logoColor=white)][x]
 [![](https://img.shields.io/badge/-kstepien-f48024?style=flat&logo=stackoverflow&logoColor=white)][stackoverflow]
 
 - 🧑‍💻 A passionate **Angular Developer**
