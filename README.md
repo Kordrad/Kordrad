@@ -37,7 +37,10 @@ Angular enthusiast & yerba mate lover 🧉
 [![](./img/icons/Figma.svg)](## "Figma")
 [![](./img/icons/Postman.svg)](## "Postman")
 
-### 📊 GitHub Stats:
+### I have contributed to
+[![](https://roadmap.sh/manifest/icon32.png)](https://github.com/kamranahmedse/developer-roadmap)
+
+### GitHub Stats:
 ![Kordrad's Stats](https://github-readme-stats.vercel.app/api?username=Kordrad&theme=onedark&show_icons=true&hide_border=true&count_private=true)
 
 [//]: <> (Variables:)
