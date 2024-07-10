@@ -12,7 +12,7 @@ Angular enthusiast & yerba mate lover 🧉
 - 📫 How to reach me: [kord.stp@gmail.com][email]
 
 
-### Languages and tools
+### 🛠️ Languages and tools
 ###### Frontend
 [![](./img/icons/Angular.svg)](## "Angular")
 [![](./img/icons/TypeScript.svg)](## "Typescript")
@@ -36,6 +36,9 @@ Angular enthusiast & yerba mate lover 🧉
 [![](./img/icons/Github.svg)](## "Github")
 [![](./img/icons/Figma.svg)](## "Figma")
 [![](./img/icons/Postman.svg)](## "Postman")
+
+### 🌍 I have contributed to
+[![](https://img.shields.io/badge/-roadmap.sh-000000?style=flat&&logoColor=white)](https://github.com/kamranahmedse/developer-roadmap)
 
 ### 📊 GitHub Stats:
 ![Kordrad's Stats](https://github-readme-stats.vercel.app/api?username=Kordrad&theme=onedark&show_icons=true&hide_border=true&count_private=true)
