@@ -41,10 +41,10 @@ Angular enthusiast & yerba mate lover 🧉
 [![](https://roadmap.sh/manifest/icon32.png)](https://github.com/kamranahmedse/developer-roadmap)
 
 ### GitHub Stats:
-![Kordrad's Stats](https://github-readme-stats.vercel.app/api?username=Kordrad&theme=onedark&show_icons=true&hide_border=true&count_private=true)
+![Kordrad's Stats](https://github-readme-stats.vercel.app/api?username=kstepien3&theme=onedark&show_icons=true&hide_border=true&count_private=true)
 
 [//]: <> (Variables:)
-[homepage]: https://github.com/Kordrad
+[homepage]: https://github.com/kstepien3
 [spotify]: https://open.spotify.com/user/21uz7h2p7m67sfbqfkrochv6a
 [linkedin]: https://www.linkedin.com/in/KonradStepien/
 [email]: mailto:kord.stp@gmail.com?subject=Hello%20Konrad,%20From%20Github
